@@ -10,6 +10,6 @@ spec:
   path: "/todo"
   to:
     kind: Service
-    name: fronent-apac
+    name: frontend-apac
     weight: 100
   wildcardPolicy: None
